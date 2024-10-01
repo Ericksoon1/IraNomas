@@ -24,6 +24,7 @@ $result = mysqli_query($conexion, $query);
                 <li><a href="reviews.php">Reseñas</a></li>
                 <li><a href="login.php">Iniciar Sesión</a></li>
                 <li><a href="register.php">Registrarse</a></li>
+                <li><a href="upload_review.php">Subir reseña</a></li>
             </ul>
         </nav>
     </header>
